@@ -1,5 +1,5 @@
 # cog-transparency
-This project is blah blah blah.
+This project's goal is to facilitate transparency within the Council of Governments.
 
 ## Team
 * Beatina
